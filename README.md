@@ -156,6 +156,6 @@ To set a disabled link simply set the **Title Attribute** to `disabled` and the 
 ### Changelog
 
 Please see the [Changelog](https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/master/CHANGELOG.md).
-### Please access to website [WP Bootstrap](https://wp-bootstrap.org) to see detail.
-### According To WP Bootstrap.
+#### Please access to website [WP Bootstrap](https://wp-bootstrap.org) to see detail.
+#### (According To WP Bootstrap)
 
